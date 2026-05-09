@@ -45,10 +45,8 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ronelmelendrez&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ronelmelendrez&layout=compact&theme=radical" alt="Top Languages" width="48%" />
-</p>
+<img src="https://github-readme-stats-ronelmelendrez.vercel.app/api?username=Ronelmelendrez&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
+<img src="https://github-readme-stats-ronelmelendrez.vercel.app/api/top-langs/?username=Ronelmelendrez&layout=compact&theme=radical" alt="Top Languages" width="48%" />
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ronelmelendrez&theme=react-dark" alt="Activity Graph" width="95%" />
