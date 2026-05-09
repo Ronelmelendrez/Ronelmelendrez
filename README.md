@@ -4,8 +4,8 @@
 </p>
 
 <!-- Badges / intro -->
-<h1 align="center">Hi 👋, I'm YOUR_NAME_HERE</h1>
-<h3 align="center">Passionate developer from YOUR_LOCATION</h3>
+<h1 align="center">Hi 👋, I'm Ronel D. Melendrez</h1>
+<h3 align="center">Passionate developer from Caraga State University</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet" alt="Profile views" />
@@ -45,21 +45,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ronelmelendrez&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ronelmelendrez&layout=compact&theme=radical" alt="Top Languages" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark" alt="Activity Graph" width="95%" />
-</p>
-
----
-
-### 🏆 Coding Activity (WakaTime – optional)
-
-<!-- If you use WakaTime, replace 'your_wakatime_id' -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=your_wakatime_id&layout=compact&theme=radical" width="60%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ronelmelendrez&theme=react-dark" alt="Activity Graph" width="95%" />
 </p>
 
 ---
