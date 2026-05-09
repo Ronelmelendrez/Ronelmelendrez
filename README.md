@@ -18,7 +18,7 @@
 
 ### 🧠 About Me
 
-- 🔭 I’m currently working on **your cool project**
+- 🔭 I’m currently working on **School Projects, Thesis and Startup**
 - 🌱 I’m learning **new tech stack** 
 - 👯 I’m looking to collaborate on **open source**
 - 💬 Ask me about **JavaScript, Python, or cloud**
