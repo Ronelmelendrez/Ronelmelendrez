@@ -8,7 +8,7 @@
 <h3 align="center">Passionate developer from Caraga State University</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ronelmelendrez&color=blueviolet" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/Ronelmelendrez&color=blueviolet" alt="Profile views" />
   <a href="https://github.com/Ronelmelendrez?tab=followers">
     <img src="https://img.shields.io/github/followers/Ronelmelendrez?style=social" alt="GitHub followers" />
   </a>
