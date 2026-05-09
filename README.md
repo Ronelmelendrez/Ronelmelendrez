@@ -40,15 +40,10 @@
 
 ### 📊 GitHub Stats
 
-<!-- Streak (daily contributions) -->
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Ronelmelendrez&theme=radical)](https://git.io/streak-stats)
-
-<img src="https://github-readme-stats-ronel357s-projects.vercel.app/api?username=Ronelmelendrez&show_icons=true&theme=radical" width="48%" />
-<img src="https://github-readme-stats-ronel357s-projects.vercel.app/api/top-langs/?username=Ronelmelendrez&layout=compact&theme=radical" width="48%" />
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ronelmelendrez&theme=react-dark" alt="Activity Graph" width="95%" />
-</p>
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=Ronelmelendrez&theme=radical&hide_border=true" height="150" />
+  <img src="https://github-readme-stats-ronel357s-projects.vercel.app/api?username=Ronelmelendrez&show_icons=true&theme=radical&hide_border=true" height="150" />
+  <img src="https://github-readme-stats-ronel357s-projects.vercel.app/api/top-langs/?username=Ronelmelendrez&layout=compact&theme=radical&hide_border=true" height="150" />
 
 ---
 
