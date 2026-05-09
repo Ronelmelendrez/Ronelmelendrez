@@ -18,11 +18,12 @@
 
 ### 🧠 About Me
 
-- 🔭 I’m currently working on **School Projects, Thesis and Startup**
-- 🌱 I’m learning **new tech stack** 
-- 👯 I’m looking to collaborate on **open source**
-- 💬 Ask me about **JavaScript, Python, or cloud**
-- ⚡ Fun fact: **your favorite fun fact**
+- 🎓 I’m an **IT student** balancing coursework, research, and real‑world product development
+- 🛍️ I’m building a **complete e‑commerce platform** (my startup) — from frontend to backend to deployment
+- 👨‍💻 As **CTO**, I lead tech decisions: stack architecture, security, scalability, and team coordination
+- 🚀 My current focus: **launching a minimum viable product (MVP)** for my e‑commerce startup
+- 💬 Ask me about **building production‑ready React/Node.js apps, database design, or startup tech strategy**
+- ⚡ Fun fact: **I turned a university IT project into a startup — now I’m both the coder and the CTO**
 
 ---
 
