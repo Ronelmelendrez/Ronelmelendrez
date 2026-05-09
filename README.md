@@ -1,6 +1,14 @@
 <!-- Header with animated typing effect -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack+developer;Open+source+enthusiast;Problem+solver;Always+learning+new+things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:388bfd&height=120&section=header&animation=twinkling" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack+Developer+%F0%9F%9A%80;Building+scalable+web+apps;Open+source+contributor;Clean+code+%7C+Better+UX;Always+learning%2C+always+shipping&font=JetBrains+Mono&center=true&width=600&height=55&color=0:58a6ff,50:a5d6ff,100:58a6ff&vCenter=true&size=20&pause=1000&duration=3000&background=00000000" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:388bfd,50:1f6feb,100:0d1117&height=80&section=footer&animation=twinkling" />
 </p>
 
 ---
