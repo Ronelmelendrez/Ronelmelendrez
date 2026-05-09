@@ -43,6 +43,9 @@
 
 ### 📊 GitHub Stats
 
+<!-- Streak (daily contributions) -->
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Ronelmelendrez&theme=radical)](https://git.io/streak-stats)
+
 <img src="https://github-readme-stats-ronel357s-projects.vercel.app/api?username=Ronelmelendrez&show_icons=true&theme=radical" width="48%" />
 <img src="https://github-readme-stats-ronel357s-projects.vercel.app/api/top-langs/?username=Ronelmelendrez&layout=compact&theme=radical" width="48%" />
 
