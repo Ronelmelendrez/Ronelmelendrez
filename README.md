@@ -18,12 +18,10 @@
 
 ### 🧠 About Me
 
-- 🎓 I’m an **IT student** balancing coursework, research, and real‑world product development
-- 🛍️ I’m building a **complete e‑commerce platform** (my startup) — from frontend to backend to deployment
-- 👨‍💻 As **CTO**, I lead tech decisions: stack architecture, security, scalability, and team coordination
-- 🚀 My current focus: **launching a minimum viable product (MVP)** for my e‑commerce startup
-- 💬 Ask me about **building production‑ready React/Node.js apps, database design, or startup tech strategy**
-- ⚡ Fun fact: **I turned a university IT project into a startup — now I’m both the coder and the CTO**
+- 🎓 IT student learning full‑stack development **by building my own e‑commerce startup**
+- 🛍️ I handle everything: frontend, backend, security, deployment, and scaling
+- 🚀 Current mission: **launch MVP + learn as I go**
+- ⚡ Fun fact: **Started as a course project — now it’s a real startup**
 
 ---
 
