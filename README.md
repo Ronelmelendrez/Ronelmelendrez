@@ -3,17 +3,6 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack+developer;Open+source+enthusiast;Problem+solver;Always+learning+new+things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
 </p>
 
-<!-- Badges / intro -->
-<h1 align="center">Hi 👋, I'm Ronel D. Melendrez</h1>
-<h3 align="center">Passionate developer from Caraga State University</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ronelmelendrez&color=blueviolet" alt="Profile views" />
-  <a href="https://github.com/Ronelmelendrez?tab=followers">
-    <img src="https://img.shields.io/github/followers/Ronelmelendrez?style=social" alt="GitHub followers" />
-  </a>
-</p>
-
 ---
 
 ### 🧠 About Me
