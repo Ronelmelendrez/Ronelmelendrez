@@ -6,7 +6,8 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack+Developer+%F0%9F%9A%80;Building+scalable+web+apps;Problem+Solver;Clean+code+%7C+Better+UX;Building+scalable+mobile+apps;Always+learning%2C+always+shipping&font=JetBrains+Mono&center=true&width=600&height=55&color=0:58a6ff,50:a5d6ff,100:58a6ff&vCenter=true&size=20&pause=1000&duration=3000&background=00000000" alt="Typing SVG" />
 </p>
 
-
+<br/><br/>
+  
 <table border="0" cellpadding="10" cellspacing="0" width="100%">
 <tr>
 <td width="50%" valign="top">
@@ -46,7 +47,7 @@
 </tr>
 </table>
 
-
+<br/><br/>
 ### 📊 GitHub Stats
 
 <div align="center">
@@ -54,11 +55,10 @@
   <img src="https://github-readme-stats-ronel357s-projects.vercel.app/api?username=Ronelmelendrez&show_icons=true&theme=radical&hide_border=true" height="150" />
   <img src="https://github-readme-stats-ronel357s-projects.vercel.app/api/top-langs/?username=Ronelmelendrez&layout=compact&theme=radical&hide_border=true" height="150" />
   <br/><br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ronelmelendrez&theme=react-dark&hide_border=true&area=true" width="100%" />
 </div>
 
----
 
+ <br/><br/>
 ### 🔗 Connect with Me
 
 <p align="center">
