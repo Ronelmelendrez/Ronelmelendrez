@@ -10,6 +10,8 @@ jobs:
       contents: write
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
       - name: Generate streak stats
         uses: DenverCoder1/github-readme-streak-stats@main
         with:
