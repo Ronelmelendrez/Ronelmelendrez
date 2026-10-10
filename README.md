@@ -45,7 +45,7 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Ronelmelendrez&theme=radical&hide_border=true&v=2" height="150" />
+  <img src="https://streak-stats.demolab.com/?user=Ronelmelendrez&theme=radical&hide_border=true&v=3" height="150" />
   <img src="https://github-readme-stats-ronel357s-projects.vercel.app/api?username=Ronelmelendrez&show_icons=true&theme=radical&hide_border=true" height="150" />
   <img src="https://github-readme-stats-ronel357s-projects.vercel.app/api/top-langs/?username=Ronelmelendrez&layout=compact&theme=radical&hide_border=true" height="150" />
   <br/><br/>
