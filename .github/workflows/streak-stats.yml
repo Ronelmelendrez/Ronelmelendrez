@@ -3,35 +3,58 @@ on:
   schedule:
     - cron: "0 3 * * *" # Runs every day at 3:00 AM UTC
   workflow_dispatch: # Allows you to run it manually from the Actions tab
+
+# Prevents multiple runs of this workflow from overlapping
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: false
+
 jobs:
   build:
     runs-on: ubuntu-latest
     permissions:
       contents: write
+      actions: write
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout repository
+        uses: actions/checkout@v4
         with:
-          fetch-depth: 0
+          fetch-depth: 0 # Fetch all history for rebase to work
+
       - name: Generate streak stats
         uses: DenverCoder1/github-readme-streak-stats@main
         with:
           options: user=Ronelmelendrez&theme=radical&hide_border=true
           path: profile/streak.svg
           token: ${{ secrets.GITHUB_TOKEN }}
-      - name: Commit streak stats
+
+      - name: Commit and push streak stats
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          
+          # Stage and commit the new SVG
           git add profile/streak.svg
           git commit -m "Update streak stats" || exit 0
           
           # Retry loop to handle concurrent pushes
-          for i in {1..3}; do
+          for i in 1 2 3 4 5; do
             echo "Push attempt $i..."
-            git push && break
+            if git push; then
+              echo "Push succeeded!"
+              break
+            fi
             
-            echo "Push rejected. Fetching latest changes and rebasing..."
+            echo "Push rejected. Rebasing on latest remote changes..."
             git fetch origin main
             git rebase origin/main
+            
+            # Add a small delay before the next attempt
             sleep 2
           done
+          
+          # Final check: if we've exhausted all retries and still can't push
+          if [ $i -eq 5 ]; then
+            echo "Failed to push after 5 attempts."
+            exit 1
+          fi
