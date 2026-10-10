@@ -11,7 +11,6 @@ jobs:
     steps:
       - uses: actions/checkout@v4
         with:
-          ref: main
           fetch-depth: 0
       - name: Generate streak stats
         uses: DenverCoder1/github-readme-streak-stats@main
@@ -25,5 +24,14 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add profile/streak.svg
           git commit -m "Update streak stats" || exit 0
-          git pull --rebase origin main
-          git push
+          
+          # Retry loop to handle concurrent pushes
+          for i in {1..3}; do
+            echo "Push attempt $i..."
+            git push && break
+            
+            echo "Push rejected. Fetching latest changes and rebasing..."
+            git fetch origin main
+            git rebase origin/main
+            sleep 2
+          done
